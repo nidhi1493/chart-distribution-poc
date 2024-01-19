@@ -11,7 +11,13 @@
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4",
-    "faker": "5.5.3"
+    "faker": "5.5.3",
+    "dayjs": "^1.11.10",
+    "@emotion/react": "latest",
+    "@emotion/styled": "latest",
+    "@mui/material": "latest",
+    "@mui/x-date-pickers": "latest",
+    "@types/react": "latest"
   },
   "scripts": {
     "start": "react-scripts start",
